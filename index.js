@@ -19,7 +19,6 @@ console.log("Welcome to The Great Raamayana Quiz "+userName)
   var questions=[{
     question:"1. Who had composed the original Ramayana?\n a) Rishi Valmiki \n b) Tulsi Das \n c) Sant Ek Nath \n d) Anhinanda \n correct option: ",
     answer:"a",
-
   },{
     question:"2.Lakshmana is considered to be the incarnation of whom? \n a) Lord Vishnu \n b) Lord Shiva \n c) Lord Brahma \n d) Sheshnag \n correct option: ",
     answer:"d",
